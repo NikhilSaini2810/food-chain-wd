@@ -1,0 +1,299 @@
+.min-h-screen {
+  margin-top: 95px;
+}
+.flex {
+  display: flex;
+}
+
+.items-center {
+  align-items: center;
+  justify-content: center;
+}
+
+.justify-bteween {
+  justify-content: space-between;
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.space30 {
+  margin-bottom: 30px;
+}
+
+.statscolor {
+  background-color: rgb(168, 45, 73);
+  color: white;
+}
+
+.liststyle {
+  list-style: none;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.about2 {
+  padding-top: 100px;
+  background-color: white;
+  background-size: cover;
+}
+
+.cwidth {
+  max-width: 1170px;
+}
+
+.mwidth {
+  width: 58.33333333%;
+}
+
+.innertext2 {
+  margin-top: 50px;
+}
+
+.innertext2 h3 {
+  width: 27rem;
+  font-size: 32px;
+  color: rgb(65 24 34);
+  line-height: 45px;
+}
+
+.innertext2 p {
+  font-size: 17px;
+  width: 400px;
+  color: #666262;
+  line-height: 28px;
+  width: 28rem;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 0 0 10px;
+}
+
+.innertext2 img {
+  width: 58.33333333%;
+}
+
+.list {
+  list-style: none;
+}
+
+.list li i {
+  color: rgb(168, 45, 73);
+  font-size: 25px;
+  min-width: 30px;
+}
+
+.list li {
+  font-size: 18px;
+  padding-bottom: 10px;
+  color: #666262;
+}
+
+.learnb {
+  text-decoration: none;
+}
+.learnb span {
+  background-color: rgb(168, 45, 73);
+  padding: 13px 30px;
+  margin: 25px 0px 0px;
+  color: white;
+  font-weight: 500;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.learnb span:hover {
+  border: 3px solid rgb(168, 45, 73);
+  background-color: white;
+  color: rgb(168, 45, 73);
+}
+
+.img2 {
+  margin-top: -40px;
+}
+
+.img2 img {
+  width: 90%;
+  float: right;
+  height: auto;
+}
+
+.container6 {
+  max-width: 1349px;
+  height: auto;
+  padding: 80px 0 0;
+}
+
+.innertext3 {
+  padding: 80px 0;
+}
+
+.innertext3 h3 {
+  margin-bottom: 15px;
+  font-size: 36px;
+  line-height: 46px;
+  font-weight: 700;
+  color: rgb(65 24 34);
+  letter-spacing: 0.1px;
+}
+
+.innertext3 p {
+  padding: 0 14%;
+  color: #666262;
+  font-size: 17px;
+  line-height: 28px;
+  margin: 0 0 10px;
+}
+.coll01 img {
+  width: 350px;
+  border-radius: 15px;
+}
+
+.coll02 img {
+  width: 350px;
+  border-radius: 15px;
+}
+
+.coll03 img {
+  width: 350px;
+  border-radius: 15px;
+}
+
+.img-wrap {
+  justify-content: space-between;
+}
+
+.wrap-info {
+  max-width: 270px;
+  overflow: hidden;
+}
+
+.wrap-info .heading4 {
+  font-size: 18px;
+  font-weight: 700;
+  color: rgb(65 24 34);
+  letter-spacing: 0.1px;
+  margin: 0;
+}
+
+.wrap-info .pheading {
+  font-size: 16px;
+  color: #666262;
+  line-height: 28pxs;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  margin: 0 0 10px;
+}
+
+.wrap-price {
+  font-size: 28px;
+  margin-bottom: 10px;
+  font-size: 28px;
+  margin-bottom: 10px;
+  padding: 20px 0px 20px;
+  max-width: 263px;
+  font-weight: 500;
+  line-height: 1.1;
+}
+
+.wrap-price .new-price {
+  font-weight: bold;
+  color: rgb(168, 45, 73);
+}
+
+.wrap-price .old-price {
+  color: #999;
+  text-decoration: line-through;
+}
+
+.wrap-info .wrap-btn {
+  padding: 20px 0 20px;
+}
+
+.wrap-info .wrap-btn a {
+  background-color: rgb(168, 45, 73);
+  padding: 15px 33px;
+  margin: 25px 0px 0px;
+  color: white;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.wrap-info .wrap-btn a:hover {
+  border: 3px solid rgb(168, 45, 73);
+  background-color: white;
+}
+.wrap-info .wrap-btn a:hover span {
+  color: rgb(168, 45, 73);
+  font-weight: 600;
+}
+
+.space100 {
+  margin-bottom: 100px;
+}
+
+.faqheading {
+  padding: 80px 0;
+}
+
+.faqheading h3 {
+  font-size: 36px;
+  line-height: 48px;
+  color: rgb(65 24 34);
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.row {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
+.innertxt {
+  width: 50%;
+  float: left;
+}
+
+.faq {
+  margin-bottom: 30px;
+  max-width: 523px;
+}
+
+.faq h4 {
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 0.2px;
+}
+
+.faq h4 span {
+  color: #f98169;
+  font-size: 28px;
+  font-weight: 300;
+  vertical-align: middle;
+}
+
+.faq p {
+  max-width: 525px;
+  font-size: 16px;
+  line-height: 28px;
+  font-weight: 400;
+  letter-spacing: 0.2px;
+  color: #666262;
+}
+
+.icons {
+  margin-top: 30px;
+}
+
+.icons a {
+  font-size: 25px;
+}
+
+.copy {
+  padding: 25px;
+  color: #fff;
+  font-size: 13px;
+}
